@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making a mobile workstation that runs on solar power.
 - 📫 How to reach me You can reach via email: Davion0805092gmail.com
 - 😄 Pronouns: Locked/in or He/Him
-- ⚡ Fun fact: I've been doind robotics for ten years
+- ⚡ Fun fact: I've been doing robotics for ten years
 
 <!---
 DavionVaughn/DavionVaughn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
