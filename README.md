@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavionVaughn
-- 👀 I’m interested in programming,cars,personal,projects,reading,engineering,and computers.
+- 👀 I’m interested in programming,cars,personal projects,reading, engineering,and computers.
 - 🌱 I’m currently learning idk ask me 
-- 💞️ I’m looking to collaborate on making a mobile workstation that runs on solar power.
-- 📫 How to reach me You can reach via email: Davion0805092gmail.com
+- 💞️ I’m looking to collaborate on ???
+- 📫 How to reach me You can reach via email: Davionvaughn@gmail.com
 - 😄 Pronouns: Locked/in or He/Him
 - ⚡ Fun fact: I've been doing robotics for ten years
 
